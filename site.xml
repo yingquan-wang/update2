@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/acme1101_1.0.0.qualifier.jar" id="acme1101" version="1.0.0.qualifier"/>
+   <feature url="features/acme1108_1.0.0.202411081905.jar" id="acme1108" version="1.0.0.202411081905"/>
 </site>
